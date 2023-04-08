@@ -1,1 +1,1 @@
-aa
+console.log(123)
